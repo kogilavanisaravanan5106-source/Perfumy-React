@@ -8,17 +8,17 @@ function Product(){
             
             <div className="box">
                 
-                        <img src={one}></img>
+                       <img src={one} alt="Fogg Wood Extreme perfume" />
                         <p>Fogg Wood Extreme, Eau De Parfum, Long-lasting Perfume, 100ml</p>    
             </div>
                  
             
             <div className="box">
-                <img src={two} ></img>
+                <img src={two} alt="Fogg Wood Extreme perfume" />
                 <p>Fogg Wood Extreme, Eau De Parfum, Long-lasting Perfume, 100ml</p> 
             </div>
             <div className="box">
-                <img src={three} ></img>
+                <img src={three} alt="Designer Club perfume" />
                 <p>Designer Club-Be Spoke by Perfume Lounge Men's Perfume | Premium Long Lasting Perfume</p>
             </div>
 
